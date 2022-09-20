@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ex01_DoKhoa</string>
+    <string name="aot">Attack On Titan</string>
+    <string name="btb">B The Beginning</string>
+    <string name="bc">Black Clover</string>
+    <string name="studio">Studio:</string>
+    <string name="genres">Genres:</string>
+</resources>
